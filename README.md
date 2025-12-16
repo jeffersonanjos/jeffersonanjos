@@ -1,15 +1,8 @@
-## Iae! Sou joão Pedro
+## Iae! Sou Jefferson
 <p>
-  Iae sou João Pedro, um estudante do ifrn-campus Caicó. Sou apaixonado pela imformática e busco sempre aprender e melhorar, sou um desenvolvedor Full Stack. Busco sempre novas tecnologias para desenvolver minhas habilidade, como progamador
+  Iae sou Jefferson, um estudante do ifrn-campus Caicó. Sou um desenvolvedor Full Stack. Busco sempre novas tecnologias para desenvolver minhas habilidade, como progamador
   , e que meus futuros projetos sejam ainda melhores.
 </p>
-
-## Metas
-<ul>
-  <li>Aprender Java</li>
-  <li>Aprender C++</li>
-  <li>Aprender Ruby</li>
-</ul>
 
 ## O que eu ultilizo:
 
